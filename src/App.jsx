@@ -9,12 +9,12 @@ import Resources from './pages/resources'
 import Requests from './pages/requests'
 import About from './pages/about'
 import Upload from './pages/upload'
-import Signup from './pages/signup'
+import Signup from './pages/signUp'
 import Login from './pages/Login'
 import StudentDashboard from './pages/StudentDashboard'
 import AdminDashboard from './pages/AdminDashboard'
 import AdminModeration from './pages/AdminModeration'
-import ReportResource from './pages/ReportResource'
+import ReportResource from './pages/reportresource'
 function Home() {
   return (
     <div className="min-h-screen bg-[#FAFCF9]">
